@@ -1,0 +1,15 @@
+.main-link {
+  color: #fff;
+}
+
+.main-link:hover,
+.main-link:active {
+  background-color: #fff;
+  color: #333;
+}
+
+.hero-header {
+  height: 100vh;
+  background-image: url(../img/hero/hero.jpg);
+  background-size: cover;
+}

@@ -1,0 +1,43 @@
+.main-link {
+  color: #333;
+}
+
+.main-link:hover,
+.main-link:active {
+  background-color: #333;
+  color: #fff;
+}
+
+.section-about {
+  width: 100%;
+  padding: 0 3.2rem;
+  margin: auto;
+  background-color: #fff;
+}
+
+.about-description {
+  background-color: #fff;
+}
+
+.about-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4.4rem;
+}
+
+.secondary-header {
+  font-size: 3.2rem;
+  margin-bottom: 2.4rem;
+}
+
+.about-para {
+  font-size: 2.4rem;
+  margin-bottom: 2.4rem;
+  line-height: 2.4rem;
+}
+
+.about-img {
+  width: 100%;
+  border-radius: 12px;
+  border: 4px solid #74c0fc;
+}
